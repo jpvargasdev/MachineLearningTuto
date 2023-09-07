@@ -1,0 +1,14 @@
+{
+  "name": "machinelearning",
+  "version": "1.0.0",
+  "description": "Machine learning test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
